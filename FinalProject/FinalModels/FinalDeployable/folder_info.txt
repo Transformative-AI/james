@@ -1,0 +1,1 @@
+This folder contains the trimmed down models that were trained and annotated in the FinalDocumentation Folder.
