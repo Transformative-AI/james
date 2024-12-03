@@ -1,8 +1,12 @@
 This FINAL PROJECT DIRECTORY will be updated as elements of my ULTIMATE MODEL are refined and integrated.
 
-This Final Project Directory is split into two folders.
+This Final Project Directory is split into 3 folders.
+1. ReferenceModels -- Contains Assignments that possibly help inform/design my FinalsModels
+2. FinalModels -- Contains 2 Folders with all models and documentation for models trained and models deployed.
   1. FinalDocumentation -- Contains Various Notebooks detail methods for refining my Models
   2. FinalDeployable -- Contains (pkl,h5,pth,keras,etc.) files that store trained models, weights, and scalars used in the HuggingFace Deployment.
+3. DataHelpers -- This folder contains the python scripts used to gather, transform, and pre-preprocess data, data sets, and data structures.
+  
 
 
 My first commit for each of the following models are trained. Subsequent commits are cleaned for legibility and integration into the final pipeline and ensemble prediction/binary recommendation model.
