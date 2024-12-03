@@ -1,0 +1,1 @@
+This folder contains the jupyter notebooks with documentation/annotations. These notebooks describe the methods chosen for training and refining the models that are saved in the Final Deployable Folder.
