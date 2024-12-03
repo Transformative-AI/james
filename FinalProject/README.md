@@ -1,5 +1,10 @@
 This FINAL PROJECT DIRECTORY will be updated as elements of my ULTIMATE MODEL are refined and integrated.
 
+This Final Project Directory is split into two folders.
+  1. FinalDocumentation -- Contains Various Notebooks detail methods for refining my Models
+  2. FinalDeployable -- Contains (pkl,h5,pth,keras,etc.) files that store trained models, weights, and scalars used in the HuggingFace Deployment.
+
+
 My first commit for each of the following models are trained. Subsequent commits are cleaned for legibility and integration into the final pipeline and ensemble prediction/binary recommendation model.
 *THE ONLY GUARANTEED FINISH AND DEPLOYED MODEL BY THE 12/2 11:59pm due date is *Model 2*.
 Models 1 will not be deployed in the ULTIMATE MODEL.
